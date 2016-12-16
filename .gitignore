@@ -1,0 +1,7 @@
+# ignore emacs tmp files 
+*~
+\#*\#
+
+# ignore coq compilition outputs
+.*.aux
+*.vo
